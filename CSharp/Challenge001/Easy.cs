@@ -3,7 +3,7 @@ using System.IO;
 using System.Security;
 namespace Challenge001{
     class Easy{
-        static void Main(string[] args){
+        public static void Run() {
             //Getting name
             Console.Write("Please enter your name: ");
             string name = Console.ReadLine();
@@ -29,6 +29,7 @@ namespace Challenge001{
 
             string data = $"Your name is {name}, you are {age}, and your username is {username}";
 
+            //Output data
             Console.WriteLine($"\n{data}");
             WriteToFile(data);
         }
