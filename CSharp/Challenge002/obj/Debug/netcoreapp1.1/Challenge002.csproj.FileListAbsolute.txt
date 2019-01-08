@@ -1,0 +1,10 @@
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge002\bin\Debug\netcoreapp1.1\Challenge002.deps.json
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge002\bin\Debug\netcoreapp1.1\Challenge002.runtimeconfig.json
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge002\bin\Debug\netcoreapp1.1\Challenge002.runtimeconfig.dev.json
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge002\obj\Debug\netcoreapp1.1\Challenge002.csprojResolveAssemblyReference.cache
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge002\obj\Debug\netcoreapp1.1\Challenge002.csproj.CoreCompileInputs.cache
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge002\obj\Debug\netcoreapp1.1\Challenge002.AssemblyInfo.cs
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge002\bin\Debug\netcoreapp1.1\Challenge002.dll
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge002\bin\Debug\netcoreapp1.1\Challenge002.pdb
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge002\obj\Debug\netcoreapp1.1\Challenge002.dll
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge002\obj\Debug\netcoreapp1.1\Challenge002.pdb
