@@ -7,12 +7,39 @@ namespace Challenge004{
         public static void Run() {
             char[] alphaNumbericSymbols = "QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm!@#$%^&*()-_!@#$%^&*()-_!@#$%^&*()".ToCharArray();
             Random r = new Random();
-            string password = "";
 
-            for(int i = 0; i < 15; i++) 
-                password += alphaNumbericSymbols[r.Next(0, alphaNumbericSymbols.Length)];
+            int amountOfPasswords = 0, amountOfChars = 0;
+            while (true) {
+                try {
+                    Console.Write("\nHow many passwords? ");
+                    amountOfPasswords = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Your password is: {password}");
+                    if(amountOfPasswords > 1)
+                        break;
+                } catch { }
+            }
+
+            while (true) {
+                try {
+                    Console.Write("\nHow many characters? ");
+                    amountOfChars = Int32.Parse(Console.ReadLine());
+
+                    if (amountOfChars > 5) {
+                        break;
+                    } else {
+                        Console.WriteLine("\nMust be more than 5 characters.");
+                    }
+                } catch { }
+            }
+
+            for(int i = 0; i < amountOfPasswords; i++) {
+                string password = "";
+
+                for (int j = 0; j < amountOfChars; j++)
+                    password += alphaNumbericSymbols[r.Next(0, alphaNumbericSymbols.Length)];
+
+                Console.WriteLine($"A password: {password}");
+            }
         }
     }
 }
