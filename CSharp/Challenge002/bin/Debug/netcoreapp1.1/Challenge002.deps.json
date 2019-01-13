@@ -1,16 +1,22 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.1",
-    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "signature": "675febbae804917e9facd973e8e2bda6390c10fc"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "challenge002/1.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.2.0",
+          "Microsoft.NETCore.Targets": "2.1.0"
+        },
         "runtime": {
           "Challenge002.dll": {}
         }
-      }
+      },
+      "microsoft.netcore.platforms/2.2.0": {},
+      "microsoft.netcore.targets/2.1.0": {}
     }
   },
   "libraries": {
@@ -18,6 +24,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "microsoft.netcore.platforms/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-whK/5p0sLtQiDbcTphVRjmN3tmV+YMYf8vuaKU05y1iZw9KWiG/iLY5Pd3ok+vFBJ+FZnmp7NqF7o7WrAYToLg==",
+      "path": "microsoft.netcore.platforms/2.2.0",
+      "hashPath": "microsoft.netcore.platforms.2.2.0.nupkg.sha512"
+    },
+    "microsoft.netcore.targets/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I2NAAePyfAzSLl/AWmgNs493xJQDDql2Ldpx3PRl7fE+FrsgdGmVHyyWlfd3doMkxHPstOkqYVGvSLbIBhyzsg==",
+      "path": "microsoft.netcore.targets/2.1.0",
+      "hashPath": "microsoft.netcore.targets.2.1.0.nupkg.sha512"
     }
   }
 }

@@ -251,7 +251,7 @@
       "Microsoft.NETCore.Jit/1.1.2": {
         "type": "package"
       },
-      "Microsoft.NETCore.Platforms/2.2.0": {
+      "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
         "compile": {
           "lib/netstandard1.0/_._": {}
@@ -267,7 +267,7 @@
           "Microsoft.NETCore.Windows.ApiSets": "1.0.1"
         }
       },
-      "Microsoft.NETCore.Targets/2.1.0": {
+      "Microsoft.NETCore.Targets/1.1.0": {
         "type": "package",
         "compile": {
           "lib/netstandard1.0/_._": {}
@@ -2485,20 +2485,17 @@
         "runtime.json"
       ]
     },
-    "Microsoft.NETCore.Platforms/2.2.0": {
-      "sha512": "whK/5p0sLtQiDbcTphVRjmN3tmV+YMYf8vuaKU05y1iZw9KWiG/iLY5Pd3ok+vFBJ+FZnmp7NqF7o7WrAYToLg==",
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
-      "path": "microsoft.netcore.platforms/2.2.0",
+      "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
-        ".signature.p7s",
-        "LICENSE.TXT",
-        "THIRD-PARTY-NOTICES.TXT",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
-        "microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+        "microsoft.netcore.platforms.1.1.0.nupkg.sha512",
         "microsoft.netcore.platforms.nuspec",
-        "runtime.json",
-        "useSharedDesignerContext.txt",
-        "version.txt"
+        "runtime.json"
       ]
     },
     "Microsoft.NETCore.Runtime.CoreCLR/1.1.2": {
@@ -2513,20 +2510,17 @@
         "runtime.json"
       ]
     },
-    "Microsoft.NETCore.Targets/2.1.0": {
-      "sha512": "I2NAAePyfAzSLl/AWmgNs493xJQDDql2Ldpx3PRl7fE+FrsgdGmVHyyWlfd3doMkxHPstOkqYVGvSLbIBhyzsg==",
+    "Microsoft.NETCore.Targets/1.1.0": {
+      "sha512": "aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "type": "package",
-      "path": "microsoft.netcore.targets/2.1.0",
+      "path": "microsoft.netcore.targets/1.1.0",
       "files": [
-        ".signature.p7s",
-        "LICENSE.TXT",
-        "THIRD-PARTY-NOTICES.TXT",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
-        "microsoft.netcore.targets.2.1.0.nupkg.sha512",
+        "microsoft.netcore.targets.1.1.0.nupkg.sha512",
         "microsoft.netcore.targets.nuspec",
-        "runtime.json",
-        "useSharedDesignerContext.txt",
-        "version.txt"
+        "runtime.json"
       ]
     },
     "Microsoft.NETCore.Windows.ApiSets/1.0.1": {
@@ -7039,10 +7033,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
-      "Microsoft.NETCore.App >= 1.1.2",
-      "Microsoft.NETCore.Platforms >= 2.2.0",
-      "Microsoft.NETCore.Targets >= 2.1.0",
-      "System.Runtime.InteropServices >= 4.3.0"
+      "Microsoft.NETCore.App >= 1.1.2"
     ]
   },
   "packageFolders": {
@@ -7054,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kalen\\source\\repos\\DailyProgrammer\\CSharp\\Challenge002\\Challenge002.csproj",
-      "projectName": "Challenge002",
-      "projectPath": "C:\\Users\\Kalen\\source\\repos\\DailyProgrammer\\CSharp\\Challenge002\\Challenge002.csproj",
+      "projectUniqueName": "C:\\Users\\Kalen\\source\\repos\\DailyProgrammer\\CSharp\\Challenge003\\Challenge003.csproj",
+      "projectName": "Challenge003",
+      "projectPath": "C:\\Users\\Kalen\\source\\repos\\DailyProgrammer\\CSharp\\Challenge003\\Challenge003.csproj",
       "packagesPath": "C:\\Users\\Kalen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kalen\\source\\repos\\DailyProgrammer\\CSharp\\Challenge002\\obj\\",
+      "outputPath": "C:\\Users\\Kalen\\source\\repos\\DailyProgrammer\\CSharp\\Challenge003\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kalen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7080,18 +7071,6 @@
     "frameworks": {
       "netcoreapp1.1": {
         "dependencies": {
-          "Microsoft.NETCore.Targets": {
-            "target": "Package",
-            "version": "2.1.0"
-          },
-          "System.Runtime.InteropServices": {
-            "target": "Package",
-            "version": "4.3.0"
-          },
-          "Microsoft.NETCore.Platforms": {
-            "target": "Package",
-            "version": "2.2.0"
-          },
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "1.1.2",

@@ -1,0 +1,9 @@
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge003\bin\Debug\netcoreapp1.1\Challenge003.deps.json
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge003\bin\Debug\netcoreapp1.1\Challenge003.runtimeconfig.json
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge003\bin\Debug\netcoreapp1.1\Challenge003.runtimeconfig.dev.json
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge003\bin\Debug\netcoreapp1.1\Challenge003.dll
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge003\bin\Debug\netcoreapp1.1\Challenge003.pdb
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge003\obj\Debug\netcoreapp1.1\Challenge003.csproj.CoreCompileInputs.cache
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge003\obj\Debug\netcoreapp1.1\Challenge003.AssemblyInfo.cs
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge003\obj\Debug\netcoreapp1.1\Challenge003.dll
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge003\obj\Debug\netcoreapp1.1\Challenge003.pdb
