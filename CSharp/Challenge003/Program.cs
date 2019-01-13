@@ -16,7 +16,7 @@ namespace Challenge003
                     //Intermediate.Run();
                     break;
                     case "3":
-                    //Hard.Run();
+                    Hard.Run();
                     break;
                 }
 

@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Challenge003{
-    class Easy{
+namespace Challenge003
+{
+    class Intermediate {
         static char[] alphabetArr = null, cipherArr = null;
         public static void Run() {
             alphabetArr = "abcdefghijklmnopqrstuvwxyz".ToCharArray();
@@ -21,21 +22,21 @@ namespace Challenge003{
 
                 switch (Console.ReadLine().ToLower()) {
                     case "e":
-                        Console.WriteLine($"\nThe encrypted message is: {Encrypt(input)}");
-                        break;
+                    Console.WriteLine($"\nThe encrypted message is: {Encrypt(input)}");
+                    break;
                     case "d":
-                        Console.WriteLine($"\nThe decrypted message is: {Decrypt(input)}");
-                        break;
+                    Console.WriteLine($"\nThe decrypted message is: {Decrypt(input)}");
+                    break;
                     default:
-                        Console.WriteLine("\nBad input.  Needs to be either an 'e' or a 'd'");
-                        break;
+                    Console.WriteLine("\nBad input.  Needs to be either an 'e' or a 'd'");
+                    break;
                 }
             }
         }
 
         public static string Encrypt(string message) {
             string encryptedMessage = "";
-            foreach(char curr in message.ToCharArray()) {
+            foreach (char curr in message.ToCharArray()) {
                 try {
                     encryptedMessage += cipherArr[Array.IndexOf(alphabetArr, curr)];
                 } catch (IndexOutOfRangeException) {
