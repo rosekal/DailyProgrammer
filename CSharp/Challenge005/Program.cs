@@ -11,7 +11,7 @@ namespace Challenge005 {
                     Easy.Run();
                     break;
                     case "2":
-                    //Intermediate.Run();
+                    Intermediate.Run();
                     break;
                     case "3":
                     //Hard.Run();
