@@ -12,10 +12,10 @@ namespace Challenge004
                     Easy.Run();
                     break;
                     case "2":
-                    //Intermediate.Run();
+                    Intermediate.Run();
                     break;
                     case "3":
-                    //Hard.Run();
+                    Hard.Run();
                     break;
                 }
 

@@ -7,3 +7,4 @@ C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge004\obj\Debug\netcor
 C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge004\obj\Debug\netcoreapp1.1\Challenge004.AssemblyInfo.cs
 C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge004\obj\Debug\netcoreapp1.1\Challenge004.dll
 C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge004\obj\Debug\netcoreapp1.1\Challenge004.pdb
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge004\obj\Debug\netcoreapp1.1\Challenge004.csprojResolveAssemblyReference.cache
