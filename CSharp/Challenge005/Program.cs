@@ -1,7 +1,6 @@
 ﻿using System;
 
-namespace Challenge004
-{
+namespace Challenge005 {
     class Program {
         static void Main(string[] args) {
             do {
@@ -9,14 +8,14 @@ namespace Challenge004
 
                 switch (Console.ReadLine()) {
                     case "1":
-                        Easy.Run();
-                        break;  
+                    Easy.Run();
+                    break;
                     case "2":
-                        Intermediate.Run();
-                        break;
+                    //Intermediate.Run();
+                    break;
                     case "3":
-                        Hard.Run();
-                        break;
+                    //Hard.Run();
+                    break;
                 }
 
             } while (true);

@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge001", "Challenge00
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge002", "Challenge002\Challenge002.csproj", "{B58DF77B-FBAE-49D2-A3D4-A18934EEA62F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge003", "Challenge003\Challenge003.csproj", "{30408588-8E35-48E1-889B-758CC3BDEBA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge003", "Challenge003\Challenge003.csproj", "{30408588-8E35-48E1-889B-758CC3BDEBA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge004", "Challenge004\Challenge004.csproj", "{906C0368-BD86-4D4B-BED2-1ABE9303760F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge004", "Challenge004\Challenge004.csproj", "{906C0368-BD86-4D4B-BED2-1ABE9303760F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge005", "Challenge005\Challenge005.csproj", "{0FD45DAE-066C-4A07-974A-61901388C50E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{906C0368-BD86-4D4B-BED2-1ABE9303760F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{906C0368-BD86-4D4B-BED2-1ABE9303760F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{906C0368-BD86-4D4B-BED2-1ABE9303760F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD45DAE-066C-4A07-974A-61901388C50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD45DAE-066C-4A07-974A-61901388C50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD45DAE-066C-4A07-974A-61901388C50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD45DAE-066C-4A07-974A-61901388C50E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
