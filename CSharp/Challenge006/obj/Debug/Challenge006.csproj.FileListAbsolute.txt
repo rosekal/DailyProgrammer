@@ -1,0 +1,7 @@
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge006\obj\Debug\Challenge006.csprojAssemblyReference.cache
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge006\obj\Debug\Challenge006.csproj.CoreCompileInputs.cache
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge006\bin\Debug\Challenge006.exe.config
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge006\bin\Debug\Challenge006.exe
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge006\bin\Debug\Challenge006.pdb
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge006\obj\Debug\Challenge006.exe
+C:\Users\Kalen\source\repos\DailyProgrammer\CSharp\Challenge006\obj\Debug\Challenge006.pdb
